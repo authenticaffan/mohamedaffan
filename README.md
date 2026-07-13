@@ -13,7 +13,7 @@
 
 
 &nbsp;![](https://komarev.com/ghpvc/?username=authenticaffan&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=authenticaffan&show_icons=true&locale=en" alt="ashishps1" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=authenticaffan&show_icons=true&locale=en" alt="" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=authenticaffan&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
 
