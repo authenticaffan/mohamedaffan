@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Affan</h1>
-<h3 align="center">A passionate Cloud Platform Engineer from India</h3>
+<h3 align="center">A passionate Accelerated Computing Engineer from India</h3>
 
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Accelerated Computing & DevOps**
 
 - 👨‍💻 All of my projects are available at [https://mohamedaffan.netlify.app/](https://mohamedaffan.netlify.app/)
 
